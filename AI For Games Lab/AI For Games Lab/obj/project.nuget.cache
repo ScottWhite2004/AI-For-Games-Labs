@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2UmHkRyWpNp+Z6Teu7mqbaocrNZzDAgIbenugW79597pv4hNVi2h5XBHBy2xCLOAV3jzP5v2Y7heQSXRaLsARg==",
+  "success": true,
+  "projectFilePath": "G:\\Lab Work\\AI For Games Lab\\AI For Games Lab\\AI For Games Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\712769\\.nuget\\packages\\imgui.net\\1.87.3\\imgui.net.1.87.3.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\monogame.imgui.net6\\1.0.0\\monogame.imgui.net6.1.0.0.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\712769\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
